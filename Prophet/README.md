@@ -4,7 +4,7 @@
 Facebookが開発した「Prophet」というツールを利用する。
 
 以下はイメージ図
-![Prophet](..\DocImage\prediction_and_actual.png)
+![Prophet](../DocImage/prediction_and_actual.png)  
 黒点が実測。青帯が予測。
 
 
